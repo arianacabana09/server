@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/arianacabana09/server/issues"
   },
-  "homepage": "https://github.com/arianacabana09/server#readme"
+  "homepage": "https://github.com/arianacabana09/server#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
 }
