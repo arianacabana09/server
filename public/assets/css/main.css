@@ -1,15 +1,16 @@
 body{
-  /*font-family: 'Luckiest Guy', cursive;*/
-  background-color: rgb(57, 166, 149);
+  font-family: 'Paytone One', sans-serif;
+  background-color: rgb(158, 205, 198);
 }
 
 #root{
+  text-align: center;
   font-size: 1.5rem;
   text-transform: capitalize;
 }
 
 .size{
   border-radius: 5px;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
