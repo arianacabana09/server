@@ -1,0 +1,23 @@
+{
+  "name": "ayudantia-api-2",
+  "version": "1.0.0",
+  "description": "ayudantia de API n°2",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianacabana09/server.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Ariana Cabana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arianacabana09/server/issues"
+  },
+  "homepage": "https://github.com/arianacabana09/server#readme"
+}
